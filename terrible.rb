@@ -1,4 +1,4 @@
-class TerribleJob < Formula
+class Terrible < Formula
   homepage "http://server-001.terrible2.production.operations.aws.sanomahost.nl"
   url "http://server-001.terrible2.production.operations.aws.sanomahost.nl/download/terrible-darwin.tar.gz"
   version "v0.0.13"

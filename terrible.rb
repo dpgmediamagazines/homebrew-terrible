@@ -6,6 +6,6 @@ class Terrible < Formula
 
   def install
       bin.install "terrible"
-      ohai "Have a terrible day"
+      ohai "The terrible client is installed on your machine. Run `terrible --help` for usage info, or read the online docs."
   end
 end

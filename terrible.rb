@@ -1,8 +1,8 @@
 class Terrible < Formula
   homepage "http://server-001.terrible2.production.operations.aws.sanomahost.nl"
   url "http://server-001.terrible2.production.operations.aws.sanomahost.nl/download/terrible-darwin.tar.gz"
-  version "2.15.1"
-  sha256 "a215732de9c3aebd79feccfedacaccb20f9b75a38e1f3a5915e9ee27eafcba85"
+  version "2.16.1"
+  sha256 "683f94f0736351d3fca487b7e26bf91083393bcf0dd868aa87570ab1fecced7c"
 
   def install
       bin.install "terrible"

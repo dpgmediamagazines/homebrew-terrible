@@ -1,8 +1,8 @@
 class Terrible < Formula
   homepage "https://terrible.sanoma.tech/"
   url "https://terrible.sanoma.tech/download/terrible-darwin.tar.gz"
-  version "2.35.0"
-  sha256 "9b90012f7dd7bff7f9634c5b166eb52a8649959002f30a8f2dde528d5696273d"
+  version "2.36.0"
+  sha256 "80dedab68b6a0748505bf78549c1af4dcf9d46fc2338c7f4ca431345e62cd3b6"
 
   def install
       bin.install "terrible"

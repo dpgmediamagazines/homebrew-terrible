@@ -2,8 +2,8 @@ class Terrible < Formula
   homepage "https://terrible.dpgmm.tech/"
   url "https://terrible.dpgmm.tech/download/terrible-darwin.tar.gz"
   version "2.68.0"
-  sha256 "37ab5ebcca785d56f93a4a23dec26d4246227c1fe5cc4fe4bf9424f45429d91e"
-  #sha256 "37ab5ebcca785d56f93a4a23dec26d4246227c1fe5cc4fe4bf9424f45429d91e"
+  sha256 "f5899e039d9244ae076078706ddcec9a87475db590c7bf710c5ed3940938e971"
+  #sha256 "f5899e039d9244ae076078706ddcec9a87475db590c7bf710c5ed3940938e971"
 
   def install
       bin.install "terrible"

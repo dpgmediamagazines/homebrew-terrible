@@ -1,9 +1,9 @@
 class TerribleM1 < Formula
     homepage "https://terrible.dpgmm.tech/"
     url "https://terrible.dpgmm.tech/download/terrible-darwin-m1.tar.gz"
-    version "2.75.1"
-    sha256 "aa684069a5da9aa015ca197510ef6f62a4eb872e04c7ea2cc47d45d05f955386"
-    #sha256 "aa684069a5da9aa015ca197510ef6f62a4eb872e04c7ea2cc47d45d05f955386"
+    version "2.75.2"
+    sha256 "b0288a08a84f51c0407b44357257b411544bd72c650f2536a5b568fcceb62510"
+    #sha256 "b0288a08a84f51c0407b44357257b411544bd72c650f2536a5b568fcceb62510"
   
     def install
         bin.install "terrible-m1"
